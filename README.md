@@ -41,6 +41,9 @@
 
 ###
 
+
+<h2>Do not miss anything and with anything write me UwU <h2/>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="" />
