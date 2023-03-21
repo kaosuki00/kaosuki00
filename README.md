@@ -41,8 +41,8 @@
 
 ###
 
+<h2 align="left">!👋Do not miss anything and with anything write me UwU👋!</h2>
 
-<h2>Do not miss anything and with anything write me UwU <h2/>
 
 <br clear="both">
 
